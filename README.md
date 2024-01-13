@@ -1,4 +1,4 @@
-Vanilla Node.js Server made with conditional statements. Input on the index page takes input from the user. If the value equals "iga" the server sends         
+Vanilla Node.js Server made with conditional statements. Input on the index page takes value from the user. If the value equals "iga" the server sends         
 ```
 const objToJson = {
           name: "iga",
